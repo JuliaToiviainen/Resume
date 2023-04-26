@@ -1,7 +1,7 @@
 # Hi my name is Julia!
 Here you can see my current resume :blush:
 
-Feel free email me for any questions:
+Feel free to email me for any questions:
 <a href="mailto:julia.toiviainen@gmail.com">Send me an email</a>
 ##
 
