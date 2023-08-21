@@ -5,7 +5,6 @@ Feel free to email me with any questions:
 <a href="mailto:julia.toiviainen@gmail.com">Send me an email</a>
 ##
 
-<img width="527" alt="Screen Shot 2023-04-25 at 11 20 14 PM" src="https://user-images.githubusercontent.com/63372623/234476707-55aa8f5c-e436-4024-a3da-8d8431cddf01.png">
+<img width="429" alt="Screen Shot 2023-08-21 at 9 29 48 AM" src="https://github.com/JuliaToiviainen/Resume/assets/63372623/1a67a2fb-b281-4c23-ae9e-b23f8c5eaa97">
 
-[Julia Toiviainen.pdf](https://github.com/JuliaToiviainen/Resume/files/11329219/Julia&nbsp;Toiviainen.pdf)
-Julia Toiviainen.pdf
+[Julia Toiviainen.pdf](https://github.com/JuliaToiviainen/Resume/files/12392920/Julia.Toiviainen.pdf)
